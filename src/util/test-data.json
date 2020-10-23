@@ -1,0 +1,20 @@
+"countryInfo" : {
+    "India":{
+        "name": "India",
+        "currency": "Rupees",
+        "unitOfSpeed": "KM",
+        "timeZone": "IST"
+    },
+    "UK":{
+        "name": "The United Kingdom",
+        "currency": "Great Britain Pounds",
+        "unitOfSpeed": "KM",
+        "timeZone": "BST"
+    },
+    "US":{
+        "name": "The United States of America",
+        "currency": "US dollar",
+        "unitOfSpeed": "Miles",
+        "timeZone": "EST"
+    }
+}
